@@ -9,6 +9,10 @@
     gap: 1rem;
     margin-bottom: 1.5rem;
   }
+
+   .search h2 {
+    text-align: center;
+  }
   
   .search p {
     color: #9da5d1;
